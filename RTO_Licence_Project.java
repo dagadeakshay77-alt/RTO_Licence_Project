@@ -2,7 +2,7 @@ package rto_project;
 
 import java.util.Scanner;
 
-public class Test {
+public class RTO_Licence_Project {
 	
 	public static void main (String[]args) {
 		
